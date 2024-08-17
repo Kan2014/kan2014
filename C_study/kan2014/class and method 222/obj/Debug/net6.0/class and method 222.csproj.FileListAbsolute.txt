@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\bin\Debug\net6.0\class and method 222.exe
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\bin\Debug\net6.0\class and method 222.deps.json
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\bin\Debug\net6.0\class and method 222.runtimeconfig.json
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\bin\Debug\net6.0\class and method 222.dll
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\bin\Debug\net6.0\class and method 222.pdb
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\class and method 222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\class and method 222.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\class and method 222.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\class and method 222.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\class and method 222.sourcelink.json
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\class and method 222.dll
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\refint\class and method 222.dll
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\class and method 222.pdb
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\class and method 222.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C_study\kan2014\class and method 222\obj\Debug\net6.0\ref\class and method 222.dll
